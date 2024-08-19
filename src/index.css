@@ -17,6 +17,7 @@ code {
 
 .main-layout {
   display: flex;
+  background: gray;
   flex-direction: row;
 }
 
